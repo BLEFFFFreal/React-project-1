@@ -1,0 +1,13 @@
+#root {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.boxs
+{
+
+border: 2px solid black;
+margin-left: 40%;
+padding: 2px;
+}
